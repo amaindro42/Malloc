@@ -1,6 +1,6 @@
 # Malloc
 
-This project is implementing a dynamic memory allocation
+This project is about implementing a dynamic memory allocation
 mechanism.
 
 ## Getting Started
