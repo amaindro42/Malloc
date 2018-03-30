@@ -50,7 +50,7 @@ Run the created files using our library
 ./run.sh ./test1
 ```
 
-You can also use know more informations about the allocations the library did
+You can also use a command to get more informations about the allocations the library did
 
 ```
 ./run.sh /usr/bin/time -l ./tests/test1
